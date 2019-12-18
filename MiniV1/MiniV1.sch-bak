@@ -463,15 +463,4 @@ F 3 "" H 5725 4325 60  0001 C CNN
 	1    6350 4350
 	1    0    0    -1  
 $EndComp
-$Comp
-L Device:D_Small D?
-U 1 1 5E01A8D4
-P 6600 4600
-F 0 "D?" V 6646 4532 50  0000 R CNN
-F 1 "D_Small" V 6555 4532 50  0000 R CNN
-F 2 "" V 6600 4600 50  0001 C CNN
-F 3 "~" V 6600 4600 50  0001 C CNN
-	1    6600 4600
-	0    -1   -1   0   
-$EndComp
 $EndSCHEMATC

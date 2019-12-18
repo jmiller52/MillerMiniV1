@@ -1,0 +1,18 @@
+[submodule "MiniV1/keyboard_parts.pretty"]
+	path = MiniV1/keyboard_parts.pretty
+	url = https://github.com/colemarkham/keyboard_parts.pretty
+[submodule "MiniV1/Keebio-Parts.pretty"]
+	path = MiniV1/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "MiniV1/Type-C.pretty"]
+	path = MiniV1/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "MiniV1/random-keyboard-parts.pretty"]
+	path = MiniV1/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "MiniV1/AcheronLibrary"]
+	path = MiniV1/AcheronLibrary
+	url = https://github.com/Gondolindrim/AcheronLibrary.git
+[submodule "MiniV1/MX_Alps_Hybrid.pretty"]
+	path = MiniV1/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
